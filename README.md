@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Jeevanreddykommula99@gmail.com**
 
-- 📄 Know about my experiences [Check out my resume](https://github.com/Jeevanreddy10/jeevanreddy10.github.io/blob/main/assets/resume/jeevank_resume.pdf)
+- 📄 Know about my experiences [Check out my resume]([https://github.com/Jeevanreddy10/jeevanreddy10.github.io/blob/main/assets/resume/jeevank_resume.pdf](https://github.com/Jeevanreddy10/jeevanreddy10.github.io/blob/main/assets/resume/jeevank_resume.pdf))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
